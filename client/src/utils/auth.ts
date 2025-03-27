@@ -1,6 +1,6 @@
 // What exactly is JwtPayload doing here?
 // What does the function do? Why might I need it?
-import { JwtPayload, jwtDecode } from 'jwt-decode';
+import { jwtDecode } from 'jwt-decode';
 
 // In order to even get working on these methods, we should identify where they get used in the code first...
 
