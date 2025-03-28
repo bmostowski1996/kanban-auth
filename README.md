@@ -17,7 +17,7 @@ This project is licensed using MIT
 This website can be used to organize and track the progress of outstanding tasks. The best way to think of it is to think of it as a virtual task manager.
 
 ## Installation Instructions 
-If you intend to use the deployed website, just follow the link to the deployed application here: . For local builds, clone the repo, and type `npm install` and then `npm start` in the terminal.
+If you intend to use the deployed website, just follow the link to the deployed application [here](https://kanban-auth-cbxo.onrender.com/). For local builds, clone the repo, and type `npm install` and then `npm start` in the terminal.
 
 ## Usage 
 Follow the prompts in the website to use the kanban board
